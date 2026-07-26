@@ -66,7 +66,7 @@ export const SETS: DraftableSet[] = [
     format: 'Premier Draft',
     blurb: 'Players, assemble.',
     featured: true,
-    art: { cn: '233', card: 'Thanos, the Mad Titan', artist: 'Björn Barends' },
+    art: { cn: '68', card: 'Multiversal Incursion', artist: 'Lordigan' },
   },
   {
     code: 'ECL',
